@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #091f68;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.text {
+    font-weight: bold;
+    padding: 10px;
+}
+
+.foto {
+    font-size: 20px;
+}
+
+form {
+    background-color: #035074;
+    color: #000000;
+    margin-top: 80px;
+    text-align: center;
+    border: 3px solid black;
+    width: auto;
+    height: auto;
+    padding: 120px;
+    padding-bottom: 60px;
+}
+
+input {
+    text-align: center;
+    padding: 8px;
+}
+
+textarea {
+    text-align: center;
+}
+
+button {
+    color: white;
+    border-bottom: #000000;
+    background-color: #0a8dca;
+    width: 40%;
+    height: 30px;
+}
